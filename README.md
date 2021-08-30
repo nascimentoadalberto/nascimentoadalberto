@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning HTML/CSS/JS, MySQL
 - 💬 Ask me about life, the universe and everything (or just some animes, why not?)
-- 📫 Oh ho! Are you approaching me? Follow me: on Instagram: @beert_ooo / on Twitter: @shibitow / on GitHub: well... you already found me...
+- 📫 Oh ho! Are you approaching me? Follow me: on Instagram: @beert_ooo / on GitHub: well... you already found me...
 - ⚡ Fun fact: I love music (especially metal and prog)
 
 <div>
