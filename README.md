@@ -8,8 +8,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning HTML/CSS/JS, MySQL, Java and some other languages :)
 - 💬 Ask me about life, the universe and everything (or just some animes, why not?)
-- 📫 Oh ho! Are you approaching me? Follow me: on Instagram: @beert_ooo / on GitHub: well... you already found me...
 - ⚡ Fun fact: I love music (especially metal and prog)
+- 📫 Oh ho! Are you approaching me? Follow me:
+- on Instagram: https://www.instagram.com/beert_ooo/
+- On Twitter: https://twitter.com/shibitow1
+- on GitHub: well... you already found me...
 
 <div>
   <a href="https://github.com/nascimentoadalberto">
