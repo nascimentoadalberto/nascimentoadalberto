@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning HTML/CSS/JS, MySQL, Design and React 
 - 💬 Ask me about life, the universe and everything (or just some animes, why not?)
-- ⚡ Fun fact: I love music (especially metal and prog)
 
 <div>
     <!-- Stats Card -->
