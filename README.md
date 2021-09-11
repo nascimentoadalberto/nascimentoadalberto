@@ -9,7 +9,7 @@
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=nascimentoadalberto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <!-- Language Card -->
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentoadalberto&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div><br><br>
+</div>
 
 <div>
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -22,7 +22,7 @@
 </div><br><br>
 
 <div>
-    📫 Oh ho! Are you approaching me? Follow me:<br>
+    📫 Oh ho! Are you approaching me? Contact me:<br>
     <a href="https://www.instagram.com/beert_ooo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://twitter.com/shibitow1"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="https://github.com/nascimentoadalberto"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
