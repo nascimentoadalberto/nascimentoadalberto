@@ -31,5 +31,4 @@
 
 <div>
     <img alt="gif" src="https://c.tenor.com/QLh0PhunTj8AAAAC/anime-typing.gif"><br>
-    ![Snake animation](https://github.com/nascimentoadalberto/nascimentoadalberto/blob/output/github-contribution-grid-snake.svg)
 </div>
