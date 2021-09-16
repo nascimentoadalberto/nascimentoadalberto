@@ -1,4 +1,4 @@
-### Hello World 👋🌎
+## Hello World 👋🌎
 
 🌱 I’m currently learning HTML/CSS/JS, MySQL, Design and React 
 💬 Ask me about life, the universe and everything (or just some animes, why not?)
