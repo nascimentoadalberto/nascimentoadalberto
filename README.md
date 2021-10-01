@@ -1,6 +1,6 @@
 ## Hello World 👋🌎
 
-🌱 I’m currently learning HTML/CSS/JS, MySQL, Design and React 
+🌱 I’m currently learning HTML/CSS/JS, MySQL, Design, Java and React
 💬 Ask me about life, the universe and everything (or just some animes, why not?)
 
 ---
@@ -18,6 +18,7 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
 ---
