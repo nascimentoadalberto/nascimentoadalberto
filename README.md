@@ -1,6 +1,6 @@
 ## Hello World 👋🌎
 
-🌱 I’m currently learning HTML/CSS/JS, MySQL, Design, Java and React
+🌱 Currently learning Front-End (HTML/CSS/JS, React, UX/UI), Back-End (Java, C#, .NET) and Databases (MySQL, SQL Server) <br>
 💬 Ask me about life, the universe and everything (or just some animes, why not?)
 
 ---
