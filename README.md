@@ -1,6 +1,11 @@
 ## Hello World 👋🌎
 
-🌱 Currently learning Front-End (HTML/CSS/JS, React, UX/UI), Back-End (Java, C#, .NET) and Databases (MySQL, SQL Server) <br>
+🌱 Currently learning:<br> 
+<ul style="list-style">
+    <li>Front-End (HTML/CSS/JS, React, UX/UI);</li>
+    <li>Back-End (Java, C#, .NET);</li>
+    <li>Databases (MySQL, SQL Server)</li>
+</ul>
 💬 Ask me about life, the universe and everything (or just some animes, why not?)
 
 ---
