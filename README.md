@@ -3,7 +3,7 @@
 🌱 Currently learning:<br> 
 <ul style="list-style">
     <li>Front-End -> HTML, CSS, JavaScript, React, Angular</li>
-    <li>Back-End -> Kotlin, Java</li>
+    <li>Back-End -> Kotlin, Java, Node.js</li>
     <li>Databases -> MySQL, SQL Server, PostgreSQL</li>
     <li>Extras -> Figma, UX/UI, Project Documentation</li>
 </ul>
